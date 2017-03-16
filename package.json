@@ -1,0 +1,19 @@
+{
+  "name": "workflow-test-common",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foundy/workflow-test-common.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundy/workflow-test-common/issues"
+  },
+  "homepage": "https://github.com/foundy/workflow-test-common#readme"
+}
