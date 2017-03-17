@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = function (by) {
-  var span = document.createElement('span');
-  span.setAttribute('style', 'color:ray');
-  span.textContent = 'Component : workflow-test-common (by ' + by + ')';
+  var div = document.createElement('div');
+  div.setAttribute('style', 'color:gray');
+  div.textContent = 'Component : workflow-test-common (by ' + by + ')';
 
-  return span;
+  return div;
 };
